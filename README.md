@@ -6,7 +6,6 @@ This project includes several files:
 hashtable.hpp, passserver.h, passserver.cpp, and proj5_test.cpp
 3). To fully make use of the hash table and passServer class to operate user information system, please run the makefile in this repository
 4). test1 is used to help you test the whole project. You can simply run makefile, and type " proj5.x<test1" or " sproj5.x<test1 " to see the result
-
 Project Description:
 Project 5:  Hash Tables and Its Applications
 
